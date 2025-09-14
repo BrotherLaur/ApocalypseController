@@ -1313,16 +1313,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Gate driving connection options\n---------------------------------\n1) Gate drive soldered gate drive_HI - if the MOSFETS are logic level,\nno socket connectors\n2) Gate drive pin to gate driver IC (requires gate driver IC)\n3) Gate drive to BJT totem pole,requires PNP and NPN transistors\n4) With sockets, gate drive signals go to shield and come back to gate drive_HI\n\nOutput overvoltage protection options for inductive loads\n----------------------------------------------------------\n1) Overvoltage protection diode in series with discharge load - to VCC\n2) high voltage diode - to load or to capacitor in parallel with discharge \n   load to VCC\n\n\n"
-		(exclude_from_sim no)
-		(at 230.886 140.208 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "215c07c6-437b-4ab6-b9a8-20de01b64c70")
-	)
 	(text "Should be an AMS1117 3V3 for ESP32"
 		(exclude_from_sim no)
 		(at 176.784 53.848 0)
@@ -1346,7 +1336,7 @@
 	)
 	(text "POWER Block"
 		(exclude_from_sim no)
-		(at 116.586 93.472 0)
+		(at 155.194 93.726 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -1388,9 +1378,9 @@
 		)
 		(uuid "f565b248-3e58-452a-9760-26b70b5c0d01")
 	)
-	(text "VDC2 is the voltage driving the loads.\nVDC is the input voltage powering the board.\nVDC2 can be higher than VDC but not higher than the Schottky\ndiodes' breakdown voltage.\nIf you use the same, then you need to solder\nthe VDC2 to VDC pins on these screw terminals.\nGND is already common to both."
+	(text "VDC2 is the voltage driving the loads.\nVDC is the input voltage powering the board.\nVDC2 can be higher than VDC but not higher than what the MOSFETS\ncan withstand from drain to gate.\nIf you use the same, then you need to solder\nthe VDC2 to VDC pins on these screw terminals.\nGND is already common to both.\n\n\nUSE only one regulator"
 		(exclude_from_sim no)
-		(at 81.026 79.756 0)
+		(at 84.074 85.852 0)
 		(effects
 			(font
 				(size 1.27 1.27)

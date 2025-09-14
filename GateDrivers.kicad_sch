@@ -2404,6 +2404,19 @@
 		)
 		(uuid "2c7ebe7b-3315-4739-864e-35a917099f46")
 	)
+	(text "For each of the 6 output MOSFETs:\n- connect digital signals (GateDriveN) directly to GatedriveN_HI outputs and\nbypass the gate driver entirely, but only if using logic level MOSFETs\n- otherwise, for MOSFETs that don't open fully at 3.3V or 5V, for each\nchannel the board allows one of the following options. \nUse what you can:\n   - UCC27511ADBV dedicated IC (primary option) OR\n   - PC817 optocoupler (second option) OR\n   - Totem pole circuit with TO-92 transistors\n   - Totem pole circuit with TO-223 transistors\nUse whatever you can find. This board is designed for flexibility"
+		(exclude_from_sim no)
+		(at 167.386 353.314 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "2db1c6cf-217c-4148-8818-532c52f8d481")
+	)
 	(text "UCC27511 gate driver option (primary)\n"
 		(exclude_from_sim no)
 		(at 80.01 17.272 0)
@@ -2423,6 +2436,18 @@
 			)
 		)
 		(uuid "58d6d68a-da8d-4a15-869c-466983e3b49a")
+	)
+	(text "GATE DRIVERS block"
+		(exclude_from_sim no)
+		(at 354.838 228.854 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "6e16589f-190e-4ddd-90e0-2e8e3d33daef")
 	)
 	(text "TO92 totem pole option"
 		(exclude_from_sim no)
@@ -20161,7 +20186,7 @@
 		(dnp no)
 		(uuid "81b60994-b5c6-44c9-921e-00cbe8a88366")
 		(property "Reference" "Rnpn6"
-			(at 395.224 274.574 90)
+			(at 398.272 280.416 90)
 			(effects
 				(font
 					(size 1.27 1.27)

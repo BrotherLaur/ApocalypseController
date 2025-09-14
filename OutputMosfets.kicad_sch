@@ -1565,7 +1565,7 @@
 	)
 	(text "OUTPUT block"
 		(exclude_from_sim no)
-		(at 163.322 24.638 0)
+		(at 121.666 21.336 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -1584,6 +1584,32 @@
 			)
 		)
 		(uuid "9120c59b-8d80-4c04-b415-23a9217e097b")
+	)
+	(text "Use IRLZ44N TO-220 OR the SMT N channel MOSFETs (QM6006D or whatever\nN Channel SMD transistor you can find that matches the pins).\nThe board allows you to choose one type of MOSFET for each output,\nso you can use a TO-220 through hole, OR a DPAK TO-252 MOSFET, OR\na TO-263 MOSFET (the larger variants)"
+		(exclude_from_sim no)
+		(at 160.02 26.162 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+				(thickness 1.016)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "a51f706a-98d3-44e9-991b-a16aadb90018")
+	)
+	(text "LEDs at each output are driven by VDC, \nwhich can be lower than VDC2.\nUse VDC2>VDC if loads require higher voltage."
+		(exclude_from_sim no)
+		(at 192.278 173.99 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "d6405006-a432-4987-a756-8e421b42848a")
 	)
 	(junction
 		(at 62.23 176.53)
