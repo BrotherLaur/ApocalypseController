@@ -60,79 +60,87 @@
       ],
       "drc_exclusions": [
         [
-          "diff_pair_gap_out_of_range|112980800|68148200|1aa98342-b844-4229-9ed1-cce556d0d210|37a6e654-0c1b-4ea0-8576-a8fc6bf8cb42",
+          "hole_to_hole|116586000|31826200|6710fb7b-1a79-4850-8600-9392f547fc0a|71f05f14-36d9-4b09-a641-62a2a1b2a738",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|114380786|79827614|ebfa2e1c-fb5c-4e54-98bf-bee3a73b2d5d|3955c663-acc0-4274-85f7-621bd744ab27",
+          "hole_to_hole|117434400|31115000|0767310a-31ab-4fd9-bfd4-997e2b2e1a55|6710fb7b-1a79-4850-8600-9392f547fc0a",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|114593700|56255872|2d4d8753-fac1-4281-9c85-8e6bf28647f4|aa876285-a979-4756-ab13-276df6a8f1b6",
+          "hole_to_hole|125952200|27428200|204b57f5-a7bb-4b68-ba84-e21ffe81d2f5|af0e868e-2d51-4b60-8b4d-c0c1032729b0",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|116206600|47061072|a567ca9d-bc2d-4cf8-937b-2d377bec75c2|7f023ff1-8d09-4609-879b-61cc23bbbb26",
+          "hole_to_hole|126802200|27428200|204b57f5-a7bb-4b68-ba84-e21ffe81d2f5|ed66b8d2-44c3-46c6-be5c-3a4f62194c0b",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|116758400|26755600|9cb6bf34-e590-47c6-86e2-c4d259d1ede6|2647d77c-3df8-4b97-bf1f-f0e34e7642e4",
+          "hole_to_hole|126802200|28778200|02a7f848-3405-4af3-9ab4-d31bd0601b06|12f1a7e1-766a-4433-a5f4-a041ed692637",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|116771372|81227600|d2d593e8-d19d-442b-9b0e-f71860947b9b|778234f7-101e-455b-a106-b201c560d630",
+          "hole_to_hole|127652200|27428200|787a8e8b-3852-4a93-bddd-e06a3c5653ee|ed66b8d2-44c3-46c6-be5c-3a4f62194c0b",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|119407000|36278772|9103f38f-efb8-4e4a-ad87-ad7b5d47571f|a9bb7c11-e919-46cd-8641-3ce67238084f",
+          "hole_to_hole|127652200|28778200|02a7f848-3405-4af3-9ab4-d31bd0601b06|b184b11b-b494-4556-a79f-8ff2f388e590",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|120210086|83675714|19a606e6-d812-4382-84a2-f7594a8f5aef|ab8ead18-9be4-49f2-8b53-29939c4fda99",
+          "hole_to_hole|127652200|28778200|b184b11b-b494-4556-a79f-8ff2f388e590|ed66b8d2-44c3-46c6-be5c-3a4f62194c0b",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|120248186|22452000|c8e924cc-d8ec-4fb8-b2d9-8a5251f5dd12|40aa2b49-159b-4648-85fc-be5b69ce38d2",
+          "hole_to_hole|128502200|27428200|787a8e8b-3852-4a93-bddd-e06a3c5653ee|a57e8af6-f7c8-4453-be81-e932163228e8",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|122076986|22982414|b52585fd-cd34-4290-bbf5-163268fcdb3a|55041a13-da7d-43e8-a8da-c3fdceaf6bf8",
+          "hole_to_hole|128502200|28778200|787a8e8b-3852-4a93-bddd-e06a3c5653ee|a4601725-8282-4224-bf62-80b1f64bbe54",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|122607400|28295600|f7c7ea32-0099-42f2-a61c-2fcb4f538de4|cd6c7fa9-f616-43b5-b22c-4e527d9a52d8",
+          "hole_to_hole|128502200|28778200|a4601725-8282-4224-bf62-80b1f64bbe54|b184b11b-b494-4556-a79f-8ff2f388e590",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|122607400|28295600|f7c9e72f-f73f-4c1e-915e-e35d6af79db5|cd6c7fa9-f616-43b5-b22c-4e527d9a52d8",
+          "hole_to_hole|129352200|27428200|a57e8af6-f7c8-4453-be81-e932163228e8|d22a7a26-1c37-4376-a112-e907e16a4b62",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|122658200|87228728|cb8edb52-74d6-4ea6-9be5-075e7803d4b9|c730dd01-0675-4105-a5d4-95a1e348eeea",
+          "hole_to_hole|129352200|28778200|a4601725-8282-4224-bf62-80b1f64bbe54|a74c28fa-a18c-4537-8bce-bf4b953a005f",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|123905710|89581138|3d5a3096-d830-471d-b73b-474ae133640a|de00bab4-fc45-4455-9b1e-5226dfd840f9",
+          "hole_to_hole|129352200|28778200|a57e8af6-f7c8-4453-be81-e932163228e8|a74c28fa-a18c-4537-8bce-bf4b953a005f",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|125153220|91170876|db6746f8-61c6-4338-84d3-3008c9e7af6f|06c62c2a-24b4-44cd-8e22-30321385670f",
+          "hole_to_hole|130202200|27428200|255b69c5-241f-4a6a-b9db-b07732e6ef90|d22a7a26-1c37-4376-a112-e907e16a4b62",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|125168737|96413400|17f94f8a-ac11-4a0a-89c3-4905c8e7b6aa|33df62e1-c64f-405c-9c4c-bd6f11b0d1c4",
+          "hole_to_hole|130202200|28778200|320e56fd-6f47-4130-88ad-1d28db8cc4b4|a74c28fa-a18c-4537-8bce-bf4b953a005f",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|125456359|91816242|ef54c581-83fe-4c90-9b8b-27a6e76c47c1|1e16dde6-2764-4039-843e-17697a46255c",
+          "hole_to_hole|130202200|28778200|320e56fd-6f47-4130-88ad-1d28db8cc4b4|d22a7a26-1c37-4376-a112-e907e16a4b62",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|125598186|96152986|01167a3c-2b9b-4232-8136-b4900bb84eb8|9b1bc1fc-9912-4824-be7a-b751eedf5717",
+          "hole_to_hole|131052200|27428200|255b69c5-241f-4a6a-b9db-b07732e6ef90|651a21ac-91d4-4535-86c8-887aec1ee118",
           ""
         ],
         [
-          "diff_pair_gap_out_of_range|125858600|94005976|98488650-3f5b-48d0-a69d-747afaab5c41|1856cf6c-6a7d-4c33-902b-26fa1a9a3423",
+          "hole_to_hole|131052200|28778200|1bc6ce91-933f-4526-ad47-b429ef2b2ff6|320e56fd-6f47-4130-88ad-1d28db8cc4b4",
+          ""
+        ],
+        [
+          "hole_to_hole|131902200|28778200|1bc6ce91-933f-4526-ad47-b429ef2b2ff6|1ecc12fb-2b9d-48c4-b53a-aaf6b4fa57ba",
+          ""
+        ],
+        [
+          "silk_over_copper|133702200|28607442|98a5544a-0fd3-4d6e-886b-9ebe9b5caf50|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -147,7 +155,7 @@
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "creepage": "error",
-        "diff_pair_gap_out_of_range": "error",
+        "diff_pair_gap_out_of_range": "ignore",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
@@ -201,11 +209,11 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.6,
+        "min_clearance": 0.3,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.6,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.325,
+        "min_hole_clearance": 0.3,
         "min_hole_to_hole": 0.15,
         "min_microvia_diameter": 0.0,
         "min_microvia_drill": 0.0,

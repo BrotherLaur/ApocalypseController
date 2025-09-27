@@ -1,0 +1,62 @@
+PCB statistics report
+=====================
+- Date: 26/09/2025 08:50:45
+- Project: ESP_IOBoard_V4
+- Board name: ESP_IOBoard_V4
+
+Board
+-----
+- Width: 239.6490 mm
+- Height: 143.9418 mm
+- Area: 34474.0254 mm²
+
+Pads
+----
+- Through hole: 637
+- SMD: 382
+- Connector: 0
+- NPTH: 5
+
+Vias
+----
+- Through vias: 520
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |        171 |         0 |   171 |
+|SMD:          |         50 |        38 |    88 |
+|Unspecified:  |         10 |         0 |    10 |
+|Total:        |        231 |        38 |   269 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|   515 | Round | 0.3000 mm | 0.3000 mm |    PTH |     Via |       Front |       Back |
+|   194 | Round | 0.8000 mm | 0.8000 mm |    PTH |     Pad |       Front |       Back |
+|   156 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |       Front |       Back |
+|    90 | Round | 0.7500 mm | 0.7500 mm |    PTH |     Pad |       Front |       Back |
+|    80 | Round | 0.5000 mm | 0.5000 mm |    PTH |     Pad |       Front |       Back |
+|    49 | Round | 1.1000 mm | 1.1000 mm |    PTH |     Pad |       Front |       Back |
+|    22 | Round | 1.5200 mm | 1.5200 mm |    PTH |     Pad |       Front |       Back |
+|    16 | Round | 0.4000 mm | 0.4000 mm |    PTH |     Pad |       Front |       Back |
+|    10 | Round | 2.7000 mm | 2.7000 mm |    PTH |     Pad |       Front |       Back |
+|     6 | Round | 0.9000 mm | 0.9000 mm |    PTH |     Pad |       Front |       Back |
+|     5 | Round | 0.4000 mm | 0.4000 mm |    PTH |     Via |       Front |       Back |
+|     2 | Round | 2.0000 mm | 2.0000 mm |    PTH |     Pad |       Front |       Back |
+|     2 | Round | 0.8000 mm | 0.8000 mm |   NPTH |     Pad |       Front |       Back |
+|     2 |  Slot | 0.5500 mm | 1.2000 mm |    PTH |     Pad |       Front |       Back |
+|     2 |  Slot | 0.8500 mm | 1.4000 mm |    PTH |     Pad |       Front |       Back |
+|     2 | Round | 2.0000 mm | 2.0000 mm |   NPTH |     Pad |       Front |       Back |
+|     2 |  Slot | 1.0000 mm | 3.0000 mm |    PTH |     Pad |       Front |       Back |
+|     2 |  Slot | 0.6000 mm | 2.1000 mm |    PTH |     Pad |       Front |       Back |
+|     2 |  Slot | 0.6000 mm | 1.4000 mm |    PTH |     Pad |       Front |       Back |
+|     1 | Round | 4.0000 mm | 4.0000 mm |    PTH |     Pad |       Front |       Back |
+|     1 |  Slot | 3.0000 mm | 1.0000 mm |    PTH |     Pad |       Front |       Back |
+|     1 | Round | 3.5000 mm | 3.5000 mm |   NPTH |     Pad |       Front |       Back |
