@@ -431,7 +431,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+		(property "Footprint" "Project_Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 			(at 27.94 113.03 0)
 			(effects
 				(font
@@ -564,7 +564,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+		(property "Footprint" "Project_Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 			(at 78.74 92.71 0)
 			(effects
 				(font
@@ -697,7 +697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+		(property "Footprint" "Project_Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 			(at 128.27 92.71 0)
 			(effects
 				(font
@@ -764,7 +764,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+		(property "Footprint" "Project_Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 			(at 85.09 129.54 0)
 			(effects
 				(font
@@ -831,7 +831,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+		(property "Footprint" "Project_Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 			(at 26.67 92.71 0)
 			(effects
 				(font
@@ -898,7 +898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+		(property "Footprint" "Project_Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 			(at 86.36 113.03 0)
 			(effects
 				(font
@@ -965,7 +965,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+		(property "Footprint" "Project_Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 			(at 111.76 129.54 0)
 			(effects
 				(font
@@ -1032,7 +1032,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+		(property "Footprint" "Project_Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 			(at 111.76 113.03 0)
 			(effects
 				(font
@@ -1165,7 +1165,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+		(property "Footprint" "Project_Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 			(at 105.41 92.71 0)
 			(effects
 				(font
@@ -1232,7 +1232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+		(property "Footprint" "Project_Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 			(at 58.42 113.03 0)
 			(effects
 				(font

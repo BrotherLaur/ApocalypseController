@@ -1,0 +1,164 @@
+(footprint "Potentiometer_Piher_PT-6-V_Vertical_Hole"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Potentiometer, vertical, shaft hole, Piher PT-6-V, http://www.piher-nacesa.com/pdf/11-PT6v03.pdf")
+	(tags "Potentiometer vertical hole Piher PT-6-V")
+	(property "Reference" "REF**"
+		(at 2.5 -7.06 0)
+		(layer "F.SilkS")
+		(uuid "51d08430-04b2-4d98-b134-3a96c3c57778")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "50k"
+		(at 2.5 2.06 0)
+		(layer "F.Fab")
+		(uuid "229422ee-799c-4741-b6dc-4dfbd8796c71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75a625f5-252d-4c1e-ae42-f9d2d1f2fe0d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Variable resistor"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0719207-dd9d-430f-bb82-0d9d3d2267be")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_arc
+		(start -0.378 -0.969)
+		(mid -0.76 -2.5)
+		(end -0.378 -4.031)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8f44b554-01ca-4643-961f-25cbbd482c59")
+	)
+	(fp_arc
+		(start 0.969 -5.378)
+		(mid 3.818477 -5.481789)
+		(end 5.659 -3.304)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1edaa3ba-5e75-433d-9329-1424a7e3d624")
+	)
+	(fp_arc
+		(start 5.659 -1.696)
+		(mid 3.818477 0.481789)
+		(end 0.969 0.378)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b8d54eb2-bfe2-462c-8ca8-778b7b88b72d")
+	)
+	(fp_rect
+		(start -1.06 -6.06)
+		(end 6.06 1.07)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "4520994f-3a02-48fb-b878-4a257e9a2f3d")
+	)
+	(fp_circle
+		(center 2.5 -2.5)
+		(end 5.65 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "1bbc6b7a-ee8c-4b81-8b85-10a2b1efe4d0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.55 -2.5 90)
+		(layer "F.Fab")
+		(uuid "5172203d-5e5a-49c6-8305-5312d8469001")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 2.5 -2.5)
+		(size 2 2)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "db13fbd6-6b70-420e-a6e7-7c5499bd3b69")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.62 1.62)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "66409186-3c00-45ae-806d-614f0192564d")
+	)
+	(pad "2" thru_hole circle
+		(at 5 -2.5)
+		(size 1.62 1.62)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fd771131-7fb7-400c-87e3-3defebc642ca")
+	)
+	(pad "3" thru_hole circle
+		(at 0 -5)
+		(size 1.62 1.62)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8e3f1cb5-c317-4114-9cc4-7c32ed22687f")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-6-V_Vertical_Hole.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

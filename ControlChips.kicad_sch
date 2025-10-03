@@ -14767,7 +14767,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x06_P2.54mm_Vertical"
 			(at 69.85 166.37 0)
 			(effects
 				(font
@@ -14914,7 +14914,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
+		(property "Footprint" "Project_Footprints:Crystal_HC49-U_Vertical"
 			(at 271.78 160.02 0)
 			(effects
 				(font
@@ -15050,7 +15050,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+		(property "Footprint" "Project_Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 			(at 321.0052 177.8 0)
 			(effects
 				(font
@@ -15118,7 +15118,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4085"
+		(property "Footprint" "Project_Footprints:USB_C_Receptacle_GCT_USB4085"
 			(at 153.67 228.6 0)
 			(effects
 				(font
@@ -15233,7 +15233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+		(property "Footprint" "Project_Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 			(at 290.5252 161.29 0)
 			(effects
 				(font
@@ -15366,7 +15366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 190.5 231.902 90)
 			(effects
 				(font
@@ -15633,7 +15633,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinHeader_1x03_P2.54mm_Vertical"
 			(at 256.54 69.85 0)
 			(effects
 				(font
@@ -15703,7 +15703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x06_P2.54mm_Vertical"
 			(at 50.8 182.88 0)
 			(effects
 				(font
@@ -15783,7 +15783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_Micro-B_Wuerth_629105150521"
+		(property "Footprint" "Project_Footprints:USB_Micro-B_Wuerth_629105150521"
 			(at 146.05 151.13 0)
 			(effects
 				(font
@@ -15994,7 +15994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x06_P2.54mm_Vertical"
 			(at 35.56 190.5 0)
 			(effects
 				(font
@@ -16141,7 +16141,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-28_W7.62mm_Socket"
+		(property "Footprint" "Project_Footprints:DIP-28_W7.62mm_Socket"
 			(at 173.99 92.71 0)
 			(effects
 				(font
@@ -16287,7 +16287,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 175.26 216.662 90)
 			(effects
 				(font
@@ -16354,7 +16354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 187.96 212.852 90)
 			(effects
 				(font
@@ -16424,7 +16424,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
+		(property "Footprint" "Project_Footprints:Crystal_HC49-U_Vertical"
 			(at 328.93 162.56 0)
 			(effects
 				(font
@@ -16494,7 +16494,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "termocuplu:TQFP-32_SLIM"
+		(property "Footprint" "Project_Footprints:TQFP-32_SLIM"
 			(at 293.37 92.71 0)
 			(effects
 				(font
@@ -16721,7 +16721,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+		(property "Footprint" "Project_Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 			(at 145.7452 110.49 0)
 			(effects
 				(font
@@ -16791,7 +16791,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+		(property "Footprint" "Project_Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 			(at 145.7452 90.17 0)
 			(effects
 				(font
@@ -16927,7 +16927,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+		(property "Footprint" "Project_Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 			(at 347.6752 163.83 0)
 			(effects
 				(font
@@ -16994,7 +16994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 175.26 219.202 90)
 			(effects
 				(font
@@ -17062,7 +17062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinHeader_1x03_P2.54mm_Vertical"
 			(at 58.42 123.19 0)
 			(effects
 				(font
@@ -17132,7 +17132,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x04_P2.54mm_Vertical"
 			(at 259.08 147.32 0)
 			(effects
 				(font
@@ -17271,7 +17271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 200.66 231.902 90)
 			(effects
 				(font
@@ -17338,7 +17338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 198.12 212.852 90)
 			(effects
 				(font
@@ -17405,7 +17405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 80.01 139.192 90)
 			(effects
 				(font
@@ -17537,7 +17537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 175.768 161.29 90)
 			(effects
 				(font
@@ -17673,7 +17673,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
+		(property "Footprint" "Project_Footprints:Crystal_HC49-U_Vertical"
 			(at 146.05 95.25 0)
 			(effects
 				(font
@@ -17809,7 +17809,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-64_10x10mm_P0.5mm"
+		(property "Footprint" "Project_Footprints:LQFP-64_10x10mm_P0.5mm"
 			(at 87.63 222.25 0)
 			(effects
 				(font
@@ -18066,7 +18066,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x15_P2.54mm_Vertical"
 			(at 106.68 78.74 0)
 			(effects
 				(font
@@ -18172,7 +18172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x04_P2.54mm_Vertical"
 			(at 232.41 106.68 0)
 			(effects
 				(font
@@ -18378,7 +18378,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x15_P2.54mm_Vertical"
 			(at 87.63 78.74 0)
 			(effects
 				(font
@@ -18684,7 +18684,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+		(property "Footprint" "Project_Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 			(at 263.8552 175.26 0)
 			(effects
 				(font
@@ -18751,7 +18751,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x04_P2.54mm_Vertical"
 			(at 193.04 144.78 0)
 			(effects
 				(font
@@ -18827,7 +18827,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x16_P2.54mm_Vertical"
 			(at 217.17 152.4 0)
 			(effects
 				(font
@@ -18936,7 +18936,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 201.93 102.108 90)
 			(effects
 				(font
@@ -19006,7 +19006,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+		(property "Footprint" "Project_Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 			(at 63.1952 143.51 0)
 			(effects
 				(font
@@ -19073,7 +19073,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x08_P2.54mm_Vertical"
 			(at 66.04 76.2 0)
 			(effects
 				(font
@@ -19227,7 +19227,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x16_P2.54mm_Vertical"
 			(at 187.96 187.96 0)
 			(effects
 				(font

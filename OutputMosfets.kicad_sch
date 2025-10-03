@@ -5450,7 +5450,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Project_Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 190.5 55.88 0)
 			(effects
 				(font
@@ -5605,7 +5605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TO220:TerminalBlock_CLEAN_2PIN"
+		(property "Footprint" "Project_Footprints:TerminalBlock_CLEAN_2PIN"
 			(at 85.09 99.06 0)
 			(effects
 				(font
@@ -5675,7 +5675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-220-3_EXTENDED"
+		(property "Footprint" "Project_Footprints:TO-220-3_EXTENDED"
 			(at 187.96 164.465 0)
 			(effects
 				(font
@@ -5813,7 +5813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 259.08 89.408 90)
 			(effects
 				(font
@@ -5883,7 +5883,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 60.452 182.88 90)
 			(effects
 				(font
@@ -5952,7 +5952,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 160.02 57.785 0)
 			(effects
 				(font
@@ -6028,7 +6028,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "termocuplu:TO-263-2_Extended"
+		(property "Footprint" "Project_Footprints:TO-263-2_Extended"
 			(at 74.93 117.475 0)
 			(effects
 				(font
@@ -6170,7 +6170,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 40.132 62.23 90)
 			(effects
 				(font
@@ -6303,7 +6303,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 148.59 156.718 90)
 			(effects
 				(font
@@ -6370,7 +6370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 153.67 48.768 90)
 			(effects
 				(font
@@ -6437,7 +6437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+		(property "Footprint" "Project_Footprints:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 43.18 93.98 0)
 			(effects
 				(font
@@ -6637,7 +6637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 64.77 159.385 0)
 			(effects
 				(font
@@ -6713,7 +6713,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Project_Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 85.09 43.18 0)
 			(effects
 				(font
@@ -6801,7 +6801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-220-3_EXTENDED"
+		(property "Footprint" "Project_Footprints:TO-220-3_EXTENDED"
 			(at 82.55 69.215 0)
 			(effects
 				(font
@@ -6877,7 +6877,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "termocuplu:TO-263-2_Extended"
+		(property "Footprint" "Project_Footprints:TO-263-2_Extended"
 			(at 170.18 156.845 0)
 			(effects
 				(font
@@ -6950,7 +6950,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 55.88 152.908 90)
 			(effects
 				(font
@@ -7019,7 +7019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 55.88 45.085 0)
 			(effects
 				(font
@@ -7092,7 +7092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 55.88 95.758 90)
 			(effects
 				(font
@@ -7162,7 +7162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 57.912 121.92 90)
 			(effects
 				(font
@@ -7232,7 +7232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TerminalBlock_CLEAN_2PIN"
+		(property "Footprint" "Project_Footprints:TerminalBlock_CLEAN_2PIN"
 			(at 87.63 157.48 0)
 			(effects
 				(font
@@ -7302,7 +7302,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "termocuplu:TO-263-2_Extended"
+		(property "Footprint" "Project_Footprints:TO-263-2_Extended"
 			(at 77.47 178.435 0)
 			(effects
 				(font
@@ -7375,7 +7375,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+		(property "Footprint" "Project_Footprints:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 25.4 35.56 0)
 			(effects
 				(font
@@ -7444,7 +7444,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 236.22 97.155 0)
 			(effects
 				(font
@@ -7520,7 +7520,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 153.162 81.28 90)
 			(effects
 				(font
@@ -7655,7 +7655,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Project_Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 97.79 157.48 0)
 			(effects
 				(font
@@ -7740,7 +7740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 35.56 57.658 90)
 			(effects
 				(font
@@ -7810,7 +7810,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "termocuplu:TO-263-2_Extended"
+		(property "Footprint" "Project_Footprints:TO-263-2_Extended"
 			(at 64.77 57.785 0)
 			(effects
 				(font
@@ -7883,7 +7883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 218.44 109.728 90)
 			(effects
 				(font
@@ -7952,7 +7952,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TerminalBlock_CLEAN_2PIN"
+		(property "Footprint" "Project_Footprints:TerminalBlock_CLEAN_2PIN"
 			(at 179.07 140.97 0)
 			(effects
 				(font
@@ -8085,7 +8085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 90.17 95.758 90)
 			(effects
 				(font
@@ -8154,7 +8154,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 64.77 102.235 0)
 			(effects
 				(font
@@ -8229,7 +8229,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 157.48 137.795 0)
 			(effects
 				(font
@@ -8433,7 +8433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+		(property "Footprint" "Project_Footprints:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 143.51 46.99 0)
 			(effects
 				(font
@@ -8500,7 +8500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+		(property "Footprint" "Project_Footprints:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 215.9 90.17 0)
 			(effects
 				(font
@@ -8633,7 +8633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 185.42 51.308 90)
 			(effects
 				(font
@@ -8703,7 +8703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 229.362 114.3 90)
 			(effects
 				(font
@@ -8836,7 +8836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 186.69 136.398 90)
 			(effects
 				(font
@@ -8903,7 +8903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+		(property "Footprint" "Project_Footprints:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 45.72 151.13 0)
 			(effects
 				(font
@@ -8973,7 +8973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 153.162 161.29 90)
 			(effects
 				(font
@@ -9043,7 +9043,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-220-3_EXTENDED"
+		(property "Footprint" "Project_Footprints:TO-220-3_EXTENDED"
 			(at 97.79 182.245 0)
 			(effects
 				(font
@@ -9247,7 +9247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 226.06 91.948 90)
 			(effects
 				(font
@@ -9315,7 +9315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 53.34 117.348 90)
 			(effects
 				(font
@@ -9385,7 +9385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-220-3_EXTENDED"
+		(property "Footprint" "Project_Footprints:TO-220-3_EXTENDED"
 			(at 93.98 125.095 0)
 			(effects
 				(font
@@ -9462,7 +9462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TO220:TerminalBlock_CLEAN_2PIN"
+		(property "Footprint" "Project_Footprints:TerminalBlock_CLEAN_2PIN"
 			(at 181.61 54.61 0)
 			(effects
 				(font
@@ -9529,7 +9529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+		(property "Footprint" "Project_Footprints:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 135.89 130.81 0)
 			(effects
 				(font
@@ -9598,7 +9598,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TerminalBlock_CLEAN_2PIN"
+		(property "Footprint" "Project_Footprints:TerminalBlock_CLEAN_2PIN"
 			(at 252.73 92.71 0)
 			(effects
 				(font
@@ -9668,7 +9668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "termocuplu:TO-263-2_Extended"
+		(property "Footprint" "Project_Footprints:TO-263-2_Extended"
 			(at 246.38 109.855 0)
 			(effects
 				(font
@@ -9744,7 +9744,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-220-3_EXTENDED"
+		(property "Footprint" "Project_Footprints:TO-220-3_EXTENDED"
 			(at 262.89 123.825 0)
 			(effects
 				(font
@@ -9817,7 +9817,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 55.88 178.308 90)
 			(effects
 				(font
@@ -10016,7 +10016,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 144.78 132.588 90)
 			(effects
 				(font
@@ -10086,7 +10086,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-220-3_EXTENDED"
+		(property "Footprint" "Project_Footprints:TO-220-3_EXTENDED"
 			(at 187.96 83.185 0)
 			(effects
 				(font
@@ -10159,7 +10159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 92.71 152.908 90)
 			(effects
 				(font
@@ -10229,7 +10229,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Project_Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 264.16 93.98 0)
 			(effects
 				(font
@@ -10314,7 +10314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 34.29 37.338 90)
 			(effects
 				(font
@@ -10381,7 +10381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 80.01 34.798 90)
 			(effects
 				(font
@@ -10449,7 +10449,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 148.59 76.708 90)
 			(effects
 				(font
@@ -10519,7 +10519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "termocuplu:TO-263-2_Extended"
+		(property "Footprint" "Project_Footprints:TO-263-2_Extended"
 			(at 170.18 76.835 0)
 			(effects
 				(font
@@ -10726,7 +10726,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Project_Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 95.25 100.33 0)
 			(effects
 				(font
@@ -10813,7 +10813,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+		(property "Footprint" "Project_Footprints:TerminalBlock_bornier-2_P5.08mm"
 			(at 73.66 41.91 0)
 			(effects
 				(font
@@ -10883,7 +10883,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Project_Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 191.77 140.97 0)
 			(effects
 				(font

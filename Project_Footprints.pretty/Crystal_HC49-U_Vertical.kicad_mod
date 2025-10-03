@@ -1,0 +1,219 @@
+(footprint "Crystal_HC49-U_Vertical"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "HC-49/U, Crystal, http://5hertz.com/pdfs/04404_D.pdf")
+	(property "Reference" "REF**"
+		(at 2.44 -0.127 90)
+		(layer "F.SilkS")
+		(uuid "3d70a311-bd80-44ba-aeca-99efd2202a9e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Crystal"
+		(at 2.44 3.52 180)
+		(layer "F.Fab")
+		(uuid "3a68c645-3836-4e67-9d8c-224182d9b957")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "745a40db-aa1f-4f02-92ff-5daa4ad2eff3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Two pin crystal"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f51f06c8-da8f-4ba7-969b-96d3d7305db7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.685 -2.435)
+		(end 5.565 -2.435)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "78653ade-c04b-4068-b054-97f666ba6b4c")
+	)
+	(fp_line
+		(start -0.685 2.435)
+		(end 5.565 2.435)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0529f199-bdba-4b5a-9cc9-6a7e981c3a90")
+	)
+	(fp_arc
+		(start -0.685 2.435)
+		(mid -3.12 0)
+		(end -0.685 -2.435)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e2133ae1-ea36-4995-84ed-ed2d063b66ac")
+	)
+	(fp_arc
+		(start 5.565 -2.435)
+		(mid 8 0)
+		(end 5.565 2.435)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "15973e40-fe40-43e5-8fd7-9bd7e6143828")
+	)
+	(fp_line
+		(start -0.68 -2.83)
+		(end 5.56 -2.83)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c8392e6e-f008-47b8-bb39-ca3906909677")
+	)
+	(fp_line
+		(start -0.68 2.83)
+		(end 5.56 2.83)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "15cd5af7-3b95-4f59-b3ee-8cc5f0cfd41a")
+	)
+	(fp_arc
+		(start -0.68 2.83)
+		(mid -3.51 0)
+		(end -0.68 -2.83)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "12e24421-37b8-4c3e-8d14-23db0813ab70")
+	)
+	(fp_arc
+		(start 5.56 -2.83)
+		(mid 8.39 0)
+		(end 5.56 2.83)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2e6c76a8-3340-45c2-856a-748e19ca98b1")
+	)
+	(fp_line
+		(start -0.685 -2.325)
+		(end 5.565 -2.325)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "107d8434-27db-4599-9d6e-c986156e8e38")
+	)
+	(fp_line
+		(start -0.685 2.325)
+		(end 5.565 2.325)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d07a8582-19d3-48fb-affd-6783fbe095be")
+	)
+	(fp_arc
+		(start -0.685 2.325)
+		(mid -3.01 0)
+		(end -0.685 -2.325)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "72f2dd26-1dc5-4bb5-9428-3bd9c3fc9f9e")
+	)
+	(fp_arc
+		(start 5.565 -2.325)
+		(mid 7.89 0)
+		(end 5.565 2.325)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0297ce8e-8aa7-418e-b0bd-a89d57164620")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.44 0 180)
+		(layer "F.Fab")
+		(uuid "f8592e95-ee0f-48b7-888e-486f1d28b17f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4953f236-b9bd-4e53-9ddb-7254bc25a8e3")
+	)
+	(pad "2" thru_hole circle
+		(at 4.88 0)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6778884b-4dba-4c22-89f9-5c41009e29dc")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC49-U_Vertical.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

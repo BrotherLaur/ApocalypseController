@@ -11781,7 +11781,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 218.44 146.812 90)
 			(effects
 				(font
@@ -11848,7 +11848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 67.31 67.818 90)
 			(effects
 				(font
@@ -11915,7 +11915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 67.31 62.738 90)
 			(effects
 				(font
@@ -12047,7 +12047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 67.31 25.908 90)
 			(effects
 				(font
@@ -12117,7 +12117,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 527.05 178.435 0)
 			(effects
 				(font
@@ -12256,7 +12256,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 68.58 107.188 90)
 			(effects
 				(font
@@ -12326,7 +12326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 527.05 53.975 0)
 			(effects
 				(font
@@ -12399,7 +12399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 388.62 187.198 90)
 			(effects
 				(font
@@ -12469,7 +12469,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 288.29 48.895 0)
 			(effects
 				(font
@@ -12607,7 +12607,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 185.928 170.18 90)
 			(effects
 				(font
@@ -12677,7 +12677,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 482.6 169.545 0)
 			(effects
 				(font
@@ -12752,7 +12752,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 186.69 183.515 0)
 			(effects
 				(font
@@ -12890,7 +12890,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 129.54 71.628 90)
 			(effects
 				(font
@@ -12960,7 +12960,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x07_P2.54mm_Vertical"
 			(at 59.69 167.64 0)
 			(effects
 				(font
@@ -13109,7 +13109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 172.72 64.135 0)
 			(effects
 				(font
@@ -13250,7 +13250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 537.21 288.925 0)
 			(effects
 				(font
@@ -13388,7 +13388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 448.31 261.112 90)
 			(effects
 				(font
@@ -13458,7 +13458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 490.22 282.575 0)
 			(effects
 				(font
@@ -13599,7 +13599,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 199.39 295.275 0)
 			(effects
 				(font
@@ -13672,7 +13672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 445.77 76.962 90)
 			(effects
 				(font
@@ -13741,7 +13741,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Project_Footprints:SOT-23-6"
 			(at 114.3 79.375 0)
 			(effects
 				(font
@@ -13822,7 +13822,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Project_Footprints:SOT-23-6"
 			(at 53.34 106.045 0)
 			(effects
 				(font
@@ -13966,7 +13966,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 220.98 172.212 90)
 			(effects
 				(font
@@ -14033,7 +14033,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 448.31 199.898 90)
 			(effects
 				(font
@@ -14100,7 +14100,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 159.258 52.07 90)
 			(effects
 				(font
@@ -14167,7 +14167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 199.39 38.862 90)
 			(effects
 				(font
@@ -14237,7 +14237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 308.61 269.875 0)
 			(effects
 				(font
@@ -14312,7 +14312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 240.03 47.625 0)
 			(effects
 				(font
@@ -14388,7 +14388,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 288.29 61.595 0)
 			(effects
 				(font
@@ -14461,7 +14461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 199.39 42.672 90)
 			(effects
 				(font
@@ -14528,7 +14528,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 67.31 72.898 90)
 			(effects
 				(font
@@ -14660,7 +14660,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 443.23 51.562 90)
 			(effects
 				(font
@@ -14727,7 +14727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 229.87 253.492 90)
 			(effects
 				(font
@@ -14859,7 +14859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 392.43 77.978 90)
 			(effects
 				(font
@@ -14929,7 +14929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 255.27 175.895 0)
 			(effects
 				(font
@@ -15004,7 +15004,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 255.27 163.195 0)
 			(effects
 				(font
@@ -15077,7 +15077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 129.54 46.228 90)
 			(effects
 				(font
@@ -15144,7 +15144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 411.988 60.96 90)
 			(effects
 				(font
@@ -15211,7 +15211,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 130.81 91.948 90)
 			(effects
 				(font
@@ -15281,7 +15281,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 448.31 100.965 0)
 			(effects
 				(font
@@ -15356,7 +15356,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 403.86 182.245 0)
 			(effects
 				(font
@@ -15431,7 +15431,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 236.22 271.145 0)
 			(effects
 				(font
@@ -15504,7 +15504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 129.54 77.978 90)
 			(effects
 				(font
@@ -15702,7 +15702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 184.658 265.43 90)
 			(effects
 				(font
@@ -15769,7 +15769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 129.54 60.198 90)
 			(effects
 				(font
@@ -15901,7 +15901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 232.41 295.148 90)
 			(effects
 				(font
@@ -15968,7 +15968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 387.35 289.052 90)
 			(effects
 				(font
@@ -16038,7 +16038,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 527.05 168.275 0)
 			(effects
 				(font
@@ -16114,7 +16114,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 419.1 93.345 0)
 			(effects
 				(font
@@ -16190,7 +16190,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 189.23 197.485 0)
 			(effects
 				(font
@@ -16328,7 +16328,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 161.29 189.738 90)
 			(effects
 				(font
@@ -16395,7 +16395,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 201.93 68.072 90)
 			(effects
 				(font
@@ -16462,7 +16462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 445.77 162.052 90)
 			(effects
 				(font
@@ -16532,7 +16532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 223.52 196.215 0)
 			(effects
 				(font
@@ -16605,7 +16605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 448.31 264.922 90)
 			(effects
 				(font
@@ -16672,7 +16672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 157.48 72.898 90)
 			(effects
 				(font
@@ -16739,7 +16739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 129.54 52.578 90)
 			(effects
 				(font
@@ -16806,7 +16806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 129.54 34.798 90)
 			(effects
 				(font
@@ -16873,7 +16873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 67.31 38.608 90)
 			(effects
 				(font
@@ -17005,7 +17005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 399.288 170.18 90)
 			(effects
 				(font
@@ -17072,7 +17072,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 201.93 80.518 90)
 			(effects
 				(font
@@ -17139,7 +17139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 450.85 302.768 90)
 			(effects
 				(font
@@ -17272,7 +17272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 404.368 60.96 90)
 			(effects
 				(font
@@ -17472,7 +17472,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 271.78 280.035 0)
 			(effects
 				(font
@@ -17547,7 +17547,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Project_Footprints:SOT-23-6"
 			(at 115.57 104.775 0)
 			(effects
 				(font
@@ -17626,7 +17626,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 229.87 257.302 90)
 			(effects
 				(font
@@ -17695,7 +17695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 224.79 160.655 0)
 			(effects
 				(font
@@ -17771,7 +17771,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 527.05 69.215 0)
 			(effects
 				(font
@@ -17912,7 +17912,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 537.21 278.765 0)
 			(effects
 				(font
@@ -17988,7 +17988,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 405.13 201.295 0)
 			(effects
 				(font
@@ -18061,7 +18061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 67.31 77.978 90)
 			(effects
 				(font
@@ -18128,7 +18128,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 398.018 280.67 90)
 			(effects
 				(font
@@ -18198,7 +18198,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x07_P2.54mm_Vertical"
 			(at 60.96 138.43 0)
 			(effects
 				(font
@@ -18283,7 +18283,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 302.26 180.975 0)
 			(effects
 				(font
@@ -18359,7 +18359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 406.4 307.975 0)
 			(effects
 				(font
@@ -18497,7 +18497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 181.61 273.812 90)
 			(effects
 				(font
@@ -18697,7 +18697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 234.95 306.705 0)
 			(effects
 				(font
@@ -18773,7 +18773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 481.33 76.835 0)
 			(effects
 				(font
@@ -18846,7 +18846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 168.148 52.07 90)
 			(effects
 				(font
@@ -18913,7 +18913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 68.58 98.298 90)
 			(effects
 				(font
@@ -19048,7 +19048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x07_P2.54mm_Vertical"
 			(at 105.41 153.67 0)
 			(effects
 				(font
@@ -19260,7 +19260,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 448.31 187.452 90)
 			(effects
 				(font
@@ -19329,7 +19329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 175.26 79.375 0)
 			(effects
 				(font
@@ -19405,7 +19405,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 482.6 182.245 0)
 			(effects
 				(font
@@ -19478,7 +19478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 193.548 265.43 90)
 			(effects
 				(font
@@ -19548,7 +19548,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 453.39 314.325 0)
 			(effects
 				(font
@@ -19621,7 +19621,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 67.31 47.498 90)
 			(effects
 				(font
@@ -19753,7 +19753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 220.98 184.658 90)
 			(effects
 				(font
@@ -19885,7 +19885,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 443.23 47.752 90)
 			(effects
 				(font
@@ -19954,7 +19954,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 271.78 267.335 0)
 			(effects
 				(font
@@ -20027,7 +20027,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 130.81 97.028 90)
 			(effects
 				(font
@@ -20224,7 +20224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 392.43 69.342 90)
 			(effects
 				(font
@@ -20358,7 +20358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 205.74 56.515 0)
 			(effects
 				(font
@@ -20561,7 +20561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 68.58 93.218 90)
 			(effects
 				(font
@@ -20630,7 +20630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 402.59 292.735 0)
 			(effects
 				(font
@@ -20703,7 +20703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 388.62 178.562 90)
 			(effects
 				(font
@@ -20772,7 +20772,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 449.58 65.405 0)
 			(effects
 				(font
@@ -20847,7 +20847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Project_Footprints:SOT-23-6"
 			(at 114.3 53.975 0)
 			(effects
 				(font
@@ -20926,7 +20926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 445.77 158.242 90)
 			(effects
 				(font
@@ -21060,7 +21060,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 302.26 170.815 0)
 			(effects
 				(font
@@ -21201,7 +21201,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 411.48 73.025 0)
 			(effects
 				(font
@@ -21276,7 +21276,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Project_Footprints:SOT-23-6"
 			(at 52.07 46.355 0)
 			(effects
 				(font
@@ -21355,7 +21355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 129.54 66.548 90)
 			(effects
 				(font
@@ -21488,7 +21488,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 67.31 33.528 90)
 			(effects
 				(font
@@ -21555,7 +21555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 218.44 143.002 90)
 			(effects
 				(font
@@ -21624,7 +21624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Project_Footprints:SOT-23-6"
 			(at 52.07 80.645 0)
 			(effects
 				(font
@@ -21703,7 +21703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 130.81 85.598 90)
 			(effects
 				(font
@@ -21773,7 +21773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 450.85 211.455 0)
 			(effects
 				(font
@@ -21846,7 +21846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 450.85 290.322 90)
 			(effects
 				(font
@@ -21915,7 +21915,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 198.12 277.495 0)
 			(effects
 				(font
@@ -21988,7 +21988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 68.58 85.598 90)
 			(effects
 				(font
@@ -22055,7 +22055,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 389.128 280.67 90)
 			(effects
 				(font
@@ -22122,7 +22122,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 390.398 170.18 90)
 			(effects
 				(font
@@ -22192,7 +22192,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 481.33 64.135 0)
 			(effects
 				(font
@@ -22265,7 +22265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 130.81 102.108 90)
 			(effects
 				(font
@@ -22335,7 +22335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 240.03 60.325 0)
 			(effects
 				(font
@@ -22408,7 +22408,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 445.77 89.408 90)
 			(effects
 				(font
@@ -22609,7 +22609,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 490.22 295.275 0)
 			(effects
 				(font
@@ -22682,7 +22682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 161.29 179.832 90)
 			(effects
 				(font
@@ -22751,7 +22751,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 452.12 175.895 0)
 			(effects
 				(font
@@ -22824,7 +22824,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 179.578 170.18 90)
 			(effects
 				(font
@@ -22891,7 +22891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 129.54 41.148 90)
 			(effects
 				(font
@@ -22960,7 +22960,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TO-92_Expanded"
+		(property "Footprint" "Project_Footprints:TO-92_Expanded"
 			(at 454.66 278.765 0)
 			(effects
 				(font
@@ -23033,7 +23033,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 181.61 287.528 90)
 			(effects
 				(font
@@ -23426,7 +23426,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 157.48 60.452 90)
 			(effects
 				(font
@@ -23558,7 +23558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_2512_6332Metric"
+		(property "Footprint" "Project_Footprints:D_2512_6332Metric"
 			(at 387.35 304.038 90)
 			(effects
 				(font
@@ -23693,7 +23693,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 204.47 92.075 0)
 			(effects
 				(font
@@ -23769,7 +23769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Project_Footprints:SOT-223-3_TabPin2"
 			(at 308.61 282.575 0)
 			(effects
 				(font
@@ -23842,7 +23842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 232.41 282.702 90)
 			(effects
 				(font

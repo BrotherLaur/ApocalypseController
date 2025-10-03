@@ -1,0 +1,213 @@
+(footprint "D_2512_6332Metric"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+	(tags "diode")
+	(property "Reference" "REF**"
+		(at 0 -2.63 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3d60a122-dc74-457d-9b52-070e10986e06")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "22k"
+		(at 0 2.63 180)
+		(layer "F.Fab")
+		(uuid "421f1566-587d-4e08-a8ba-bf7277eba1e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "35893ba8-4e83-4e4b-b306-2f0f6b9ea4cc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Resistor"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8768d901-64f6-49c9-b2cf-4148944df5fb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.835 -1.935)
+		(end -3.835 1.935)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "26b2f3c2-aa0c-4fb3-9ada-f0958a72ee33")
+	)
+	(fp_line
+		(start -3.835 1.935)
+		(end 3.15 1.935)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "97f0bb74-55f9-424b-bf73-74f3fea06fce")
+	)
+	(fp_line
+		(start 3.15 -1.935)
+		(end -3.835 -1.935)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d1d12322-0bcc-4e7c-b184-18bdc5f47020")
+	)
+	(fp_line
+		(start -3.83 -1.93)
+		(end 3.83 -1.93)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b727029c-e67c-4b1b-b025-090f25b43e0b")
+	)
+	(fp_line
+		(start -3.83 1.93)
+		(end -3.83 -1.93)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4751d8d4-af85-4518-9035-b84900828df8")
+	)
+	(fp_line
+		(start 3.83 -1.93)
+		(end 3.83 1.93)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "28d747a2-f5fb-4993-934a-aa63365d6d2d")
+	)
+	(fp_line
+		(start 3.83 1.93)
+		(end -3.83 1.93)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "86eae4f0-078c-4474-af31-d7d2ea5f7f75")
+	)
+	(fp_line
+		(start -3.15 -0.8)
+		(end -3.15 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e39765a4-260a-4574-b936-dd16ecad55f1")
+	)
+	(fp_line
+		(start -3.15 1.6)
+		(end 3.15 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1e7046d7-4718-47f8-904f-a8cd9a7d7103")
+	)
+	(fp_line
+		(start -2.35 -1.6)
+		(end -3.15 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "95c1c35a-6871-4f7d-b9e3-19e6cb2ab3f4")
+	)
+	(fp_line
+		(start 3.15 -1.6)
+		(end -2.35 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "46bbf076-2b45-462c-972d-6b5a7743c000")
+	)
+	(fp_line
+		(start 3.15 1.6)
+		(end 3.15 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "17ad23a7-4cab-4f06-8fe6-0326b33fd224")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "7b2c9464-7244-4cd5-b186-c2296a58e71a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -2.9 0)
+		(size 1.35 3.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.185185)
+		(uuid "831fda9d-50f4-4531-8490-8ce4e2022b40")
+	)
+	(pad "2" smd roundrect
+		(at 2.9 0)
+		(size 1.35 3.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.185185)
+		(uuid "14badd7d-cea7-4c68-803a-4b5d4552162e")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_2512_6332Metric.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

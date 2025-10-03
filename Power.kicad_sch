@@ -2021,7 +2021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
+		(property "Footprint" "Project_Footprints:BarrelJack_Horizontal"
 			(at 31.75 26.67 0)
 			(effects
 				(font
@@ -2291,7 +2291,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+		(property "Footprint" "Project_Footprints:TO-252-2"
 			(at 130.81 62.865 0)
 			(effects
 				(font
@@ -2364,7 +2364,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:TerminalBlock_CLEAN_2PIN"
+		(property "Footprint" "Project_Footprints:TerminalBlock_CLEAN_2PIN"
 			(at 40.64 60.96 0)
 			(effects
 				(font
@@ -2434,7 +2434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x3.9"
+		(property "Footprint" "Project_Footprints:CP_Elec_6.3x3.9"
 			(at 160.9852 45.72 0)
 			(effects
 				(font
@@ -2569,7 +2569,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x3.9"
+		(property "Footprint" "Project_Footprints:CP_Elec_6.3x3.9"
 			(at 101.2952 48.26 0)
 			(effects
 				(font
@@ -2638,7 +2638,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinHeader_1x03_P2.54mm_Vertical"
 			(at 132.08 48.26 0)
 			(effects
 				(font
@@ -2711,7 +2711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+		(property "Footprint" "Project_Footprints:TO-220-3_Horizontal_TabDown"
 			(at 149.86 34.29 0)
 			(effects
 				(font
@@ -2785,7 +2785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+		(property "Footprint" "Project_Footprints:TerminalBlock_bornier-2_P5.08mm"
 			(at 40.64 52.07 0)
 			(effects
 				(font
@@ -2855,7 +2855,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+		(property "Footprint" "Project_Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 			(at 150.8252 45.72 0)
 			(effects
 				(font
@@ -2925,7 +2925,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+		(property "Footprint" "Project_Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 			(at 110.1852 48.26 0)
 			(effects
 				(font

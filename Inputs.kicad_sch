@@ -4497,7 +4497,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-3_P5.08mm"
+		(property "Footprint" "Project_Footprints:TerminalBlock_bornier-3_P5.08mm"
 			(at 218.44 81.28 0)
 			(effects
 				(font
@@ -4568,7 +4568,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical_Hole"
+		(property "Footprint" "Project_Footprints:Potentiometer_Piher_PT-6-V_Vertical_Hole"
 			(at 81.28 47.498 90)
 			(effects
 				(font
@@ -4636,7 +4636,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 53.34 84.328 90)
 			(effects
 				(font
@@ -4704,7 +4704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Project_Footprints:SW_PUSH_6mm"
 			(at 153.67 128.27 0)
 			(effects
 				(font
@@ -4840,7 +4840,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 215.138 92.71 90)
 			(effects
 				(font
@@ -4910,7 +4910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 74.422 52.07 90)
 			(effects
 				(font
@@ -4978,7 +4978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical_Hole"
+		(property "Footprint" "Project_Footprints:Potentiometer_Piher_PT-6-V_Vertical_Hole"
 			(at 49.53 46.228 90)
 			(effects
 				(font
@@ -5048,7 +5048,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x02_P2.54mm_Vertical"
 			(at 180.34 110.49 0)
 			(effects
 				(font
@@ -5116,7 +5116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Project_Footprints:SW_PUSH_6mm"
 			(at 181.61 123.19 0)
 			(effects
 				(font
@@ -5252,7 +5252,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x02_P2.54mm_Vertical"
 			(at 212.09 110.49 0)
 			(effects
 				(font
@@ -5388,7 +5388,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "termocuplu:k type"
+		(property "Footprint" "Project_Footprints:k type"
 			(at 58.42 119.38 0)
 			(effects
 				(font
@@ -5460,7 +5460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x02_P2.54mm_Vertical"
 			(at 152.4 116.84 0)
 			(effects
 				(font
@@ -5595,7 +5595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 60.96 86.868 90)
 			(effects
 				(font
@@ -5664,7 +5664,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-3_P5.08mm"
+		(property "Footprint" "Project_Footprints:TerminalBlock_bornier-3_P5.08mm"
 			(at 218.44 68.58 0)
 			(effects
 				(font
@@ -5734,7 +5734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x04_P2.54mm_Vertical"
 			(at 34.29 87.63 0)
 			(effects
 				(font
@@ -5810,7 +5810,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x02_P2.54mm_Vertical"
 			(at 199.39 140.97 0)
 			(effects
 				(font
@@ -5946,7 +5946,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 42.672 52.07 90)
 			(effects
 				(font
@@ -6013,7 +6013,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinSocket_1x05_P2.54mm_Vertical"
 			(at 124.46 114.3 0)
 			(effects
 				(font
@@ -6092,7 +6092,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 154.178 74.93 90)
 			(effects
 				(font
@@ -6162,7 +6162,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TO220:R_Axial_Clean"
+		(property "Footprint" "Project_Footprints:R_Axial_Clean"
 			(at 213.868 58.42 90)
 			(effects
 				(font
@@ -6230,7 +6230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinHeader_1x03_P2.54mm_Vertical"
 			(at 156.21 50.8 0)
 			(effects
 				(font
@@ -6367,7 +6367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinHeader_1x03_P2.54mm_Vertical"
 			(at 123.19 50.8 0)
 			(effects
 				(font
@@ -6438,7 +6438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "Project_Footprints:MSOP-8_3x3mm_P0.65mm"
 			(at 109.22 140.97 0)
 			(effects
 				(font
@@ -6524,7 +6524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Project_Footprints:PinHeader_1x03_P2.54mm_Vertical"
 			(at 142.24 83.82 0)
 			(effects
 				(font
@@ -6661,7 +6661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Project_Footprints:SW_PUSH_6mm"
 			(at 213.36 123.19 0)
 			(effects
 				(font
@@ -6729,7 +6729,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Project_Footprints:SW_PUSH_6mm"
 			(at 196.85 123.19 0)
 			(effects
 				(font
